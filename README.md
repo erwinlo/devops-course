@@ -8,4 +8,4 @@ Some more dummy text. The quick brown fox jumps high over the old lazy dog.
 * more git
 * cloud with Gilbert
 * docker - if time permits
-
+* assignments and homeworks!
