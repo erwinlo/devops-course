@@ -9,5 +9,6 @@ Some more dummy text. The quick brown fox jumps high over the old lazy dog.
 * cloud with Gilbert
 * docker - if time permits
 * assignments and homeworks!
+* kubernetes?
 
 ![](sumner-mahaffey-7Y0NshQLohk-unsplash.jpg)
