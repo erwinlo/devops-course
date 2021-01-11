@@ -10,5 +10,6 @@ Some more dummy text. The quick brown fox jumps high over the old lazy dog.
 * docker - if time permits
 * assignments and homeworks!
 * kubernetes?
+* that's it, really!
 
 ![](sumner-mahaffey-7Y0NshQLohk-unsplash.jpg)
